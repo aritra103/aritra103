@@ -6,10 +6,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web_Development-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FFA500?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 💼 Work Experience
 ### Internship on Android Development at ICFAI University
@@ -39,6 +37,9 @@
   *Jan 2009 - May 2019*
 
 ## 🔧 Projects
+- **Care Plus: A full-stack doctor appointment booking platform**  
+  *Developed using React.js, Node.js, and MongoDB.*
+  
 - **IGRIS: A DDM AI Project**  
   *Decision Making Model using PyQt5, dotenv, subprocess, and JSON.*
 
